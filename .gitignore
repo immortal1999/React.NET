@@ -1,0 +1,27 @@
+# Node.js (Frontend React)
+frontend/node_modules/
+frontend/.env
+frontend/.cache/
+
+# Python (Backend Flask)
+backend/__pycache__/
+backend/instance/
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Build directories
+frontend/build/
+
+# Dependency directories
+frontend/node_modules/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# IDE-specific
+.idea/
